@@ -1,2 +1,13 @@
 # CodeAlpha_Basic_Network_Sniffer
-🚀 A basic Python-based network sniffer using Scapy to capture and analyze live TCP, UDP, and ICMP traffic. Supports real-time viewing and saving packets to PCAP format.
+🕵️ A simple network packet sniffer written in Python using Scapy.
+
+## 🔧 Features
+- Live capture of TCP, UDP, ICMP packets
+- Real-time source/destination display
+- Manual command to save `.pcap` file anytime
+- Saves output compatible with Wireshark
+
+## 🛠️ Usage
+
+```bash
+python sniffer.py
